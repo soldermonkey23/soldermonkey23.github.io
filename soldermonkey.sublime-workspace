@@ -193,7 +193,8 @@
 			"file": "index.md",
 			"settings":
 			{
-				"buffer_size": 217,
+				"buffer_size": 225,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
@@ -400,18 +401,18 @@
 				{
 					"buffer": 2,
 					"file": "index.md",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 217,
+						"buffer_size": 225,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								117,
+								117
 							]
 						],
 						"settings":
