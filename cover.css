@@ -90,10 +90,9 @@ body {
  */
 .main-image {
   margin-top: 20px;
-  width:495px;
-  height:495px;
+  max-width: 75%;
   margin-bottom: 10px;
-  border:0px; /*prevents IE9 from showing border around link*/
+  border: 0px; /*prevents IE9 from showing border around link*/
 }
 
 
